@@ -1,0 +1,80 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #b5dee9;
+    color: #03045e;
+  }
+  
+  .container {
+    background-color: #c0e2f5;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #0077b6;
+  }
+  
+  .table {
+    margin-top: 20px;
+    background-color: #F6F1F1;
+    color: #03045e;
+  }
+  
+  .table th, .table td {
+    padding: 15px;
+    text-align: left;
+    border-top: 1px solid #caf0f8;
+  }
+  
+  .form-group label {
+    color: #03045e;
+  }
+  
+  .form-control {
+    background-color: #caf0f8;
+    border: 1px solid #03045e;
+    color: #03045e;
+  }
+  
+  .form-control:focus {
+    border-color: #0077b6;
+    box-shadow: none;
+  }
+  
+  .date-picker-wrapper {
+    background-color: #caf0f8;
+  }
+  
+  .date-picker-wrapper input {
+    background-color: #caf0f8;
+    border: 1px solid #03045e;
+    color: #03045e;
+  }
+  
+  .date-picker-wrapper input:focus {
+    border-color: #0077b6;
+    box-shadow: none;
+  }
+  
+  /* Estilos para o carrossel */
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .footer {
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #167BF7;
+    color:#ffffff;
+    }
+
+  

@@ -1,0 +1,176 @@
+
+{
+  "elogios": [
+    {
+      "nome": "Maria Oliveira",
+      "telefone": "2345-6789",
+      "elogio": "Muito prestativos.",
+      "data": "2024-12-07",
+      "cpf": "98765432100",
+      "categoria": "Atendimento",
+      "idade": 45
+    },
+    {
+      "nome": "João Silva",
+      "telefone": "1234-5678",
+      "elogio": "Sempre muito simpático.",
+      "data": "2024-10-03",
+      "cpf": "12345678900",
+      "categoria": "Simpatia",
+      "idade": 32
+    },
+    {
+      "nome": "Ana Souza",
+      "telefone": "3456-7890",
+      "elogio": "Conhece muito bem os produtos.",
+      "data": "2024-10-04",
+      "cpf": "23456789012",
+      "categoria": "Conhecimento do produto",
+      "idade": 28
+    },
+    {
+      "nome": "Carlos Pereira",
+      "telefone": "4567-8901",
+      "elogio": "Muito objetivo nas respostas.",
+      "data": "2024-10-05",
+      "cpf": "34567890123",
+      "categoria": "Objetividade",
+      "idade": 53
+    },
+    {
+      "nome": "Beatriz Lima",
+      "telefone": "5678-9012",
+      "elogio": "Resolveu meu problema rapidamente.",
+      "data": "2024-10-06",
+      "cpf": "45678901234",
+      "categoria": "Resolutividade",
+      "idade": 37
+    },
+    {
+      "nome": "Pedro Santos",
+      "telefone": "6789-0123",
+      "elogio": "Atendimento excelente.",
+      "data": "2024-10-07",
+      "cpf": "56789012345",
+      "categoria": "Atendimento",
+      "idade": 41
+    },
+    {
+      "nome": "Mariana Costa",
+      "telefone": "7890-1234",
+      "elogio": "Muito simpática e atenciosa.",
+      "data": "2024-10-08",
+      "cpf": "67890123456",
+      "categoria": "Simpatia",
+      "idade": 26
+    },
+    {
+      "nome": "Lucas Almeida",
+      "telefone": "8901-2345",
+      "elogio": "Conhece todos os detalhes dos produtos.",
+      "data": "2024-10-09",
+      "cpf": "78901234567",
+      "categoria": "Conhecimento do produto",
+      "idade": 34
+    },
+    {
+      "nome": "Fernanda Ribeiro",
+      "telefone": "9012-3456",
+      "elogio": "Respondeu de forma clara e objetiva.",
+      "data": "2024-10-10",
+      "cpf": "89012345678",
+      "categoria": "Objetividade",
+      "idade": 29
+    },
+    {
+      "nome": "Ricardo Fernandes",
+      "telefone": "0123-4567",
+      "elogio": "Resolveu meu problema de forma eficiente.",
+      "data": "2024-10-11",
+      "cpf": "90123456789",
+      "categoria": "Resolutividade",
+      "idade": 47
+    },
+    {
+      "nome": "Juliana Martins",
+      "telefone": "1234-5678",
+      "elogio": "Atendimento de primeira.",
+      "data": "2024-10-12",
+      "cpf": "01234567890",
+      "categoria": "Atendimento",
+      "idade": 38
+    },
+    {
+      "nome": "Gabriel Rocha",
+      "telefone": "2345-6789",
+      "elogio": "Muito simpático e educado.",
+      "data": "2024-10-13",
+      "cpf": "12345678901",
+      "categoria": "Simpatia",
+      "idade": 31
+    },
+    {
+      "nome": "Larissa Mendes",
+      "telefone": "3456-7890",
+      "elogio": "Sabe tudo sobre os produtos.",
+      "data": "2024-10-14",
+      "cpf": "23456789012",
+      "categoria": "Conhecimento do produto",
+      "idade": 27
+    },
+    {
+      "nome": "Thiago Azevedo",
+      "telefone": "4567-8901",
+      "elogio": "Respondeu de forma direta e clara.",
+      "data": "2024-10-15",
+      "cpf": "34567890123",
+      "categoria": "Objetividade",
+      "idade": 52
+    },
+    {
+      "nome": "Patrícia Gomes",
+      "telefone": "5678-9012",
+      "elogio": "Resolveu meu problema rapidamente.",
+      "data": "2024-10-16",
+      "cpf": "45678901234",
+      "categoria": "Resolutividade",
+      "idade": 44
+    },
+    {
+      "nome": "Felipe Nunes",
+      "telefone": "6789-0123",
+      "elogio": "Atendimento excelente.",
+      "data": "2024-10-17",
+      "cpf": "56789012345",
+      "categoria": "Atendimento",
+      "idade": 36
+    },
+    {
+      "nome": "Renata Carvalho",
+      "telefone": "7890-1234",
+      "elogio": "Muito simpática e atenciosa.",
+      "data": "2024-10-18",
+      "cpf": "67890123456",
+      "categoria": "Simpatia",
+      "idade": 25
+    },
+    {
+      "nome": "André Lima",
+      "telefone": "8901-2345",
+      "elogio": "Conhece todos os detalhes dos produtos.",
+      "data": "2024-10-19",
+      "cpf": "78901234567",
+      "categoria": "Conhecimento do produto",
+      "idade": 33
+    },
+    {
+      "nome": "Camila Souza",
+      "telefone": "9012-3456",
+      "elogio": "Respondeu de forma clara e objetiva.",
+      "data": "2024-10-20",
+      "cpf": "89012345678",
+      "categoria": "Objetividade",
+      "idade": 30
+    }
+  ]
+}
