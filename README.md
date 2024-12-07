@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Projeto Elogie+ - Descrição do Projeto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este Projeto foi desenvolvido para atender aos requisitos de entrega do MVP da disciplina **Desenvolvimento Front-end Avançado**.
 
-## Available Scripts
+Trata-se de uma página que fala sobre os benefícios do elogio na vida de quem elogia e quem o recebe. Há também dados fictícios de elogios sobre supostos atendimentos.
 
-In the project directory, you can run:
+Foi implementado um Front-end utilizando React, que lê três arquivos Json diferentes. Na primeira página, há um carrossel com algumas imagens, e algumas estatísticas extraídas das bases em Json.
 
-### `npm start`
+Há uma segunda página com a lista dos dados extraídos, onde é possível aplicar filtros por data e também por idade. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Já na terceira página há um gráfico, que também utiliza os dados das bases em Json, e no qual é possível aplicar os mesmos filtros.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Em todas as páginas são aproveitados os componentes banner, footer, um menu de navegação entre as páginas, um card com vídeos sobre o tema e speed dial que habilita funções como copiar, salvar, impressão e compartilhamento da página.
 
-### `npm test`
+# Projeto Elogie+ - Prototipação em Figma
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://www.figma.com/proto/BV4HKKa9LSWLKCCHPaz4sv/Elogie%2B-Prototipa%C3%A7%C3%A3o-em-Figma?page-id=134%3A128&node-id=134-143&node-type=frame&viewport=1292%2C1288%2C0.5&t=vbcrRfZHPx7fsAy5-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=134%3A143
 
-### `npm run build`
+Acima há um Protótipo de três páginas em alta fidelidade do Projeto Elogie+, com menu de navegação interativo entre as páginas, também foi implementado o hover nos botões do referido menu, bem como o carrossel da página principal foi animado com as imagens do projeto.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como executar o front
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Não há nenhuma API vinculada ao projeto, sendo utilizado dos dados fictícios de arquivos Json já incluídos no diretório clonado.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para executar a interface basta executar o comando: 
 
-### `npm run eject`
+```
+$ npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Abra o [http://localhost:3000/#/](http://localhost:3000/#/) no navegador.
+![image](https://github.com/user-attachments/assets/2b011519-d77c-44d2-bbdd-ea36a921793e)
